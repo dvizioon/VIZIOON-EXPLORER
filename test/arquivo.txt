@@ -1,0 +1,20 @@
+#############################
+# BEM-VINDO AO VIZIOON EXPLORER #
+#############################
+
+>> Anotações de Sistema <<
+
+1. Este é um explorador de arquivos básico.
+2. Suporta navegação por diretórios.
+3. Permite criação, edição e exclusão de arquivos e pastas.
+4. Exibe logs das operações realizadas.
+
+>> Instruções <<
+
+- Use o botão "Criar Arquivo" para adicionar novos arquivos de texto.
+- Edite arquivos clicando com o botão direito sobre eles e selecionando "Editar".
+- Exclua arquivos e pastas com segurança utilizando a barra de progresso para grandes diretórios.
+
+#############################
+# Criado por: Daniel Estevão Martins Mendes #
+#############################
