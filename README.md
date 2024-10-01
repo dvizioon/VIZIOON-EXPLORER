@@ -1,6 +1,11 @@
 # Vizioon Explorer 
 
-<img src="./screenshots/explorador.png"  alt="explorador.png">
+
+<table align="center">
+  <th>
+    <img src="./screenshots/explorador.png" width="100"  alt="explorador.png">
+  <th>
+</table>
 
 Este projeto é um **explorador de arquivos** simples, desenvolvido em **Python** com a biblioteca **Tkinter** para fornecer uma interface gráfica intuitiva para navegação entre diretórios, gerenciamento de arquivos e pastas, além de oferecer funcionalidades como edição, criação e exclusão de arquivos e pastas.
 
